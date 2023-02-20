@@ -23,8 +23,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">In Progress...</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/9-50JS/tree/main/sound-board">Sound Board</a></td>
+      <td><a href="https://sound-board-two.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
